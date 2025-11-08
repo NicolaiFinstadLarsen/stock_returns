@@ -4,4 +4,4 @@
 - Make dataframe [ ]
 - Clean data [ ]
 - Calculate stock return [ ]
-- Plot returns [ ]
+- Plot returns [x]
